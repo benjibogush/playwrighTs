@@ -22,7 +22,7 @@ const config: PlaywrightTestConfig = {
             }
         }
     },
-    testMatch: ['destructure.ts'],
+    testMatch: ['googleTest.ts'],
 
     //or runn all ts tests
     // testMatch: ["*.ts"],

@@ -36,6 +36,9 @@ https://nodejs.org/en/download/
     "typescript": "4.3.2"
   }
 ```
+#### use this command to install packages
+> npm i
+
 #### versions may change in the future, check https://www.npmjs.com/ to see current versions. You can also learn why these tools are used in the same website.
 
 #### load environment vars via process.env but first install dotenv

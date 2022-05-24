@@ -53,7 +53,7 @@ or
 #### also report is generated, see config.ts and playwright-report automatically generated.
 
 #### how to run your tests
-> npx run action
+> npm run action
 
 #### see config.ts file, action script.
 #### then see testMatch in the config file.
